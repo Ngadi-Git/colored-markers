@@ -1,6 +1,6 @@
-# Responsive web design project: CAFE MENU
+# Responsive web design project: A SET OF COLORED MARKERS
 ## 
-### I buillt a set of colored markers. l learn different ways to set 
+### I practiced basic CSS by building  a set of colored markers. l learn different ways to set 
 ### color values and how to pair colors with each other
 
 ## Author :black_nib:
